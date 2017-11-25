@@ -20,7 +20,7 @@ namespace NewLife.School.Entity
 {
     /// <summary>班级</summary>
     public partial class Class : Entity<Class>
-    {
+    {   
         #region 对象操作
             ﻿
 
