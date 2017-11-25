@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace NewLife.School
 {
     /// <summary>
-    /// Master分支。。。
+    ///  One+ Master
     /// </summary>
     class Class1
     {
