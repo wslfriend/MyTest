@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace NewLife.School
 {
+    /// <summary>
+    /// Master分支。。。
+    /// </summary>
     class Class1
     {
     }
