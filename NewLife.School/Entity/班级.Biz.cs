@@ -90,7 +90,7 @@ namespace NewLife.School.Entity
         //}
 
         #endregion
-
+               
         #region 扩展属性
 
 
